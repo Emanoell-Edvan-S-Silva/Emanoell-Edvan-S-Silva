@@ -14,6 +14,6 @@
  </div>
 
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emanoell-Edvan-S-Silva&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Emanoell-Edvan-S-Silva&theme=gotham)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D6F50&height=120&section=footer"/>
