@@ -41,10 +41,8 @@
 ### Outros conhecimentos:
 
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-
-![Aws](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
   
 ### Estudando no Momento:
-![Quasar](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Quasar](https://img.shields.io/badge/-Quasar-0D1117?style=for-the-badge&logo=quasar&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7242ed&height=120&section=footer"/>
