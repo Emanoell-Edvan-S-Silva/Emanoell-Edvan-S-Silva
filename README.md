@@ -29,14 +29,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![html](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=Rred)
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Aws](https://img.shields.io/badge/Amazon%20AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Aws](https://img.shields.io/badge/Amazon%20AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 
 ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![intellij](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoftoffice&labelColor=0D1117)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&labelColor=0D1117)&nbsp;
 
 ### Outros conhecimentos:
 
